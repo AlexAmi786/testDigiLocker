@@ -110,7 +110,7 @@
   	</div>
   	<div class="form-group">
   	  <label for="password">Password</label>
-  	  <input type="password" name="password" id="password" class="form-control" data-validation="required">
+  	  <input type="password" name="password" id="password" class="form-control" data-validation="required" placholder="Password">
 	  <span id="password_error"></span>
   	</div>
   	<div class="form-group">

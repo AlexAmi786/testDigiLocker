@@ -106,7 +106,7 @@
   <form method="post" action="" id="form_login"  enctype = "multipart/form-data" >
   	<div class="form-group">
   	  <label for="username">Username</label>
-  	  <input type="text" name="username" id="username" class="form-control" data-validation="required alphanumeric" data-validation-allowing="_">
+  	  <input type="text" name="username" id="username" class="form-control" data-validation="required alphanumeric" data-validation-allowing="_" placholder="Username">
   	</div>
   	<div class="form-group">
   	  <label for="password">Password</label>

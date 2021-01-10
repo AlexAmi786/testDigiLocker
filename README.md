@@ -1,2 +1,3 @@
 # testDigiLocker
-Its test for use of digiloker
+
+It is just test for setup and code for git command practise.
